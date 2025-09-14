@@ -5,6 +5,12 @@
 
 ---
 
+## TODO
+
+- Add Part A hyperplane plot.
+- Add sample highlighting and weight vector arrow to Part B plots.
+- Implement Parts C, D, and E with math + plots + discussion.
+
 ## 🎯 Goal
 Implement the **Perceptron algorithm** from scratch using only NumPy and Matplotlib, and explore:
 - How the algorithm learns in real-time
