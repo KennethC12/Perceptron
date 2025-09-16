@@ -1,12 +1,10 @@
 # Neural Networks — Assignment I: The Perceptron
 
 **Instructor:** Tales Imbiriba  
-**Due:** Sep. 17 (Wednesday) by 11:59 PM
 
 ---
 
 ## TODO
-
 - Add Part A hyperplane plot.
 - Add sample highlighting and weight vector arrow to Part B plots.
 - Implement Parts C, D, and E with math + plots + discussion.
